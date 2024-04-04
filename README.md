@@ -18,35 +18,42 @@ Microsoft Defender
 
 <p align="center">
 Launch the utility and selecting which user for simulated attack : <br/>
-<img src="https://imgur.com/rlJ3pA8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/11Iqdj7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Naming the policy:  <br/>
-<img src="https://imgur.com/E2wyxc6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Naming the simulation:  <br/>
+<img src="https://imgur.com/kzsTyBw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Chossing the data locations where the policy will be applied exmaples Exchage email  : <br/>
-<img src="https://imgur.com/cvvi37v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Chossing Simulation technique : <br/>
+<img src="https://imgur.com/R9K1AlV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Selecting template as per organizations needs and as per data protection Laws :  <br/>
-<img src="https://imgur.com/PYP9qVS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Selecting payload and login page for the simulation:  <br/>
+<img src="https://imgur.com/FkweUsv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Selecting actions that will be carried out is sensitive data is being shared:  <br/>
-<img src="https://imgur.com/wffyQUZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Assigning training :  <br/>
+<img src="https://imgur.com/yyNiCGA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Customizing access and override settings:  <br/>
-<img src="https://imgur.com/GSNEzoj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Selecting page template :  <br/>
+<img src="https://imgur.com/kSmOElz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Turning on the policy :  <br/>
-<img src="https://imgur.com/yN8sc2t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Launching simulation :  <br/>
+<img src="https://imgur.com/nwEXhE9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
+<br />
+<br />   
+Lab output :  <br/>
+Training Simulation email in the assigned users inbox:  <br/>
+<img src="https://imgur.com/1pohgJh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-policy in effect :  <br/>
-<img src="https://imgur.com/O6SH9L5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Output if the user clicks the link in the email  :  <br/>
+<img src="https://imgur.com/M838GBr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <!--
